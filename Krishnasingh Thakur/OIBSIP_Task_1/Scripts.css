@@ -1,0 +1,23 @@
+button{
+    width: 150px;
+    height: 100px;
+    font-size: 30px;
+    border-radius: 20px;
+    margin: 6px;
+    background-color: #f8feffbf;
+    border-style: inset;
+    text-align: center;
+}
+
+#output-screen {
+    margin-left: 200px;
+    margin-top: 15px;
+    border-radius: 20px;
+    background-color: rgba(225, 231, 244, 0.851)2, 133, 4;
+}
+
+h1 {
+    font-size:60px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
